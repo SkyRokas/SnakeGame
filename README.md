@@ -1,8 +1,8 @@
 ## SnakeGame
 
 
-## Usage
-1. Clone
+## Naudojimas
+* Nusiklonuojam
    ``` python
   git clone https://github.com/SkyRokas/SnakeGame.git
    ```
