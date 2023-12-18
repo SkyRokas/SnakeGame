@@ -9,7 +9,7 @@ One of the oldest video games in history witch I recreated using Python and pyga
    ``` python
   git clone pip install -r requirements.txt
    ```
-* Launch SnakeGame.exe
+* Launch Snake Game.exe
 
 ## Controls
 * use arrow keys to move the snake
