@@ -17,6 +17,12 @@ One of the oldest video games in history witch I recreated using Python and pyga
 * ESC button closes the game
 * In menu use arrow up/down to navigate and ENTER to select
 
+## Game Rules
+* collect as many apples as you can
+* Snake can move through walls
+* Do not collide with yourself
+* Try to beat my ***Highscore***(90)
+
 ## Contacts
 **Rokas Vidžiūnas**   
 
