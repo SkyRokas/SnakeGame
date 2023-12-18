@@ -3,6 +3,6 @@
 
 ## Usage
 1. Clone
-   ''' python
- git clone https://github.com/SkyRokas/SnakeGame.git
-   '''
+   ``` python
+  git clone https://github.com/SkyRokas/SnakeGame.git
+   ```
