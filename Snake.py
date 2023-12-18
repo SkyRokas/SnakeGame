@@ -8,13 +8,13 @@ from Items import *
 
 def load_high_score():
     try:
-        with open(HIGH_SCORE, "r") as file:
+        with open("highscore.txt", "r") as file:
             return int(file.read())
     except FileNotFoundError:
         return 0
 
 def save_high_score(score):
-    with open(HIGH_SCORE, "w") as file:
+    with open("highscore.txt", "w") as file:
         file.write(str(score))
 
 
