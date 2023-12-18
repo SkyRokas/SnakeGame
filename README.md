@@ -21,6 +21,7 @@ One of the oldest video games in history witch I recreated using Python and pyga
 * collect as many apples as you can
 * Snake can move through walls
 * Do not collide with yourself
+* Game restarts immediately after death
 * Try to beat my ***Highscore***(90)
 
 ## Contacts
