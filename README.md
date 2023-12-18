@@ -1,7 +1,7 @@
 ## Snake Game
 One of the oldest video games in history witch I recreated using Python and pygames library
 ## Usage
-* Clone the repo
+* Clone the repository
    ``` python
   git clone https://github.com/SkyRokas/SnakeGame.git
    ```
