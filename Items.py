@@ -2,7 +2,6 @@
 WIDTH, HEIGHT = 600, 400
 GRID_SIZE = 20
 FPS = 10
-HIGH_SCORE = "highscore.txt"
 
 # Colors
 BLACK = (0, 0, 0)
