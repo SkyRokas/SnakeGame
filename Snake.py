@@ -24,7 +24,6 @@ def main():
     clock = pygame.time.Clock()
     screen = pygame.display.set_mode((WIDTH, HEIGHT), 0, 32)
     surface = pygame.Surface(screen.get_size())
-    surface = surface
 
     background_image = pygame.image.load("background.png")
     background_image = pygame.transform.scale(background_image, (WIDTH, HEIGHT))
