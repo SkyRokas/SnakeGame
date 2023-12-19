@@ -45,7 +45,7 @@ class Snake:
         for i, p in enumerate(self.positions):
             if i == 0:
                 head_image = self.images.get(self.direction,
-                                             self.images[(0, -1)])  # Default to up if direction is not found
+                                             self.images[(0, -1)])
                 surface.blit(head_image, (p[0], p[1]))
             else:
                 surface.blit(self.body_image, (p[0], p[1]))
